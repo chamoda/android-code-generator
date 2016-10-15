@@ -1,6 +1,6 @@
 # android-code-generator
 
-Automatically generate android activity codes from xml layouts.
+Automatically generate android activity code from xml layouts.
 
 ## Install
 
