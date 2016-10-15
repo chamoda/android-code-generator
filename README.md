@@ -4,7 +4,7 @@ Simple android code generator script. Generate code for Android Activity or Frag
 
 ## Install
 
-Python 2.7 Requrierd
+Python 2.7 Required
 
 `pip install beautifulsoup4 lxml`  
 `git clone https://github.com/chamoda/android-code-generator.git; cd android-code-generator`
@@ -13,7 +13,7 @@ Python 2.7 Requrierd
 
 `cat main_activity.xml | python generate.py`
 
-You will get an output like 
+You will get an output like
 
 ```java
 
