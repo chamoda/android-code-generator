@@ -1,6 +1,6 @@
 # android-code-generator
 
-Simple android code generator script. Generate code for Android Activity or Fragment class from xml.
+Automatically generate android activity codes from xml layouts.
 
 ## Install
 
